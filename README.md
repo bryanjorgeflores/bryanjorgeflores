@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Jorge</h1>
 <h3 align="center">A passionate Flutter developer from Peru</h3>
 
-- 🔭 I’m currently working on [HikariAnime](https://www.hikarianime.es)
+- 🔭 I’m currently working on [Hikari Anime](https://www.hikarianime.es)
 - � Ask me about **Flutter**
 
 - 📫 How to reach me **bryanjorgeflores@gmail.com**
